@@ -1,2 +1,2 @@
 # library
-testing my git
+testing my git with terminal
